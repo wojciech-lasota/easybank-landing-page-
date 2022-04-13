@@ -8,7 +8,7 @@
     &__image {
 
         position: relative;
-        background-image: url('docs/assets/images/bg-intro-mobile.svg');
+        background-image: url('app/scss/docs/assets/images/bg-intro-mobile.svg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -18,7 +18,7 @@
             flex: 3;
             order:2; 
             height: 41rem;
-            background-image: url('docs/assets/images/bg-intro-desktop.svg');
+            background-image: url('app/scss/docs/assets/images/bg-intro-desktop.svg');
             background-position: left center;
         }
 
@@ -27,7 +27,7 @@
             position: absolute;
             height: 100%;
             width: 100%;
-            background-image: url('docs/assets/images/image-mockups.png');
+            background-image: url('app/scss/docs/assets/images/image-mockups.png');
             background-size: 93%;
             background-repeat: no-repeat;
             background-position: center bottom;
