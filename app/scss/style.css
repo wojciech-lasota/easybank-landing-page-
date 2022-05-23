@@ -321,6 +321,7 @@ button:hover,
   border-radius: 3px;
   position: absolute;
   width: calc(100% - 3rem);
+  z-index:1;
 }
 
 .header__menu a {
