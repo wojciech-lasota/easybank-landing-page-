@@ -382,7 +382,7 @@ button:hover,
 
 .hero__image {
   position: relative;
-  background-image: url("easybank-landing-page-/images/bg-intro-mobile.svg");
+  background-image: url("../../easybank-landing-page-/images/bg-intro-mobile.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
